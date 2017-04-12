@@ -19,8 +19,7 @@ function postResponse(channel, userName, newAccount, account, link) {
     ]
   };
 
-
-var url = 'https://hooks.slack.com/services/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';
+var url = 'https://hooks.slack.com/services/AAAAAAAAA/AAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAA';
 var options = {
   'method': 'post',
   'payload': JSON.stringify(payload)
